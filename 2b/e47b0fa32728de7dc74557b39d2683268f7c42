@@ -1,0 +1,47 @@
+.github/workflows/deploy.yml
+  s_7bbb87de08d5d9::t_a4b9f29df20a32 1-57
+src/components/PortalCard.astro
+  s_7bbb87de08d5d9::t_75c0a9d4d74387 1-71
+package.json
+  s_7bbb87de08d5d9::t_b66d7727eace4e 1-19
+src/pages/index.astro
+  s_7bbb87de08d5d9::t_65f7b3b4259393 1-159
+src/pages/blog/index.astro
+  s_7bbb87de08d5d9::t_639a027407fd68 1-97
+src/components/Nav.astro
+  s_7bbb87de08d5d9::t_392c5e6a926287 1-149
+astro.config.mjs
+  s_7bbb87de08d5d9::t_8604f7f8815a76 1-13
+src/components/Footer.astro
+  s_7bbb87de08d5d9::t_015f8c14f071e7 1-52
+src/styles/global.css
+  s_7bbb87de08d5d9::t_f8195f057dfc6f 1-60
+src/components/Hero.astro
+  s_7bbb87de08d5d9::t_79dce546d2e75c 1-165
+.gitignore
+  s_7bbb87de08d5d9::t_f7065f8d8a5cf4 1-3
+tsconfig.json
+  s_7bbb87de08d5d9::t_01d9f6a6518e3a 1-5
+src/pages/portfolio/index.astro
+  s_7bbb87de08d5d9::t_0e026b171d8faa 1-241
+src/pages/youtube/index.astro
+  s_7bbb87de08d5d9::t_aa1ee1cca4eb4d 1-148
+src/layouts/Layout.astro
+  s_7bbb87de08d5d9::t_203cecb92194e0 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2be47b0fa32728de7dc74557b39d2683268f7c42",
+  "prompts": {},
+  "sessions": {
+    "s_7bbb87de08d5d9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_193114cebffevFZ661fUWMIJGx",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "prashant <pchaturvedi@g2.com>"
+    }
+  }
+}
