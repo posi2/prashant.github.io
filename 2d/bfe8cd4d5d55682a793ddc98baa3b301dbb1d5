@@ -1,0 +1,21 @@
+public/favicon/browserconfig.xml
+  s_7bbb87de08d5d9::t_ef980b392777a3 1-2
+public/favicon/manifest.json
+  s_7bbb87de08d5d9::t_ef980b392777a3 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2dbfe8cd4d5d55682a793ddc98baa3b301dbb1d5",
+  "prompts": {},
+  "sessions": {
+    "s_7bbb87de08d5d9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_193114cebffevFZ661fUWMIJGx",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "prashant <pchaturvedi@g2.com>"
+    }
+  }
+}
