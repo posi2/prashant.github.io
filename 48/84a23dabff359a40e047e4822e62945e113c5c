@@ -1,0 +1,29 @@
+src/pages/blog/index.astro
+  s_7bbb87de08d5d9::t_84b6dd6d6cd91d 9
+src/pages/index.astro
+  s_7bbb87de08d5d9::t_c353abfeb59117 11
+  s_7bbb87de08d5d9::t_07ef23b7d1ca91 44-49,58,67
+  s_7bbb87de08d5d9::t_3faf3b2ed53aef 34,41-43
+src/pages/projects/index.astro
+  s_7bbb87de08d5d9::t_52762b5ce25384 1-194
+src/pages/youtube/index.astro
+  s_7bbb87de08d5d9::t_f77edf1f42aacc 9
+src/pages/portfolio/index.astro
+  s_7bbb87de08d5d9::t_40ab01fc44a16d 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "4884a23dabff359a40e047e4822e62945e113c5c",
+  "prompts": {},
+  "sessions": {
+    "s_7bbb87de08d5d9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_193114cebffevFZ661fUWMIJGx",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "prashant <pchaturvedi@g2.com>"
+    }
+  }
+}
